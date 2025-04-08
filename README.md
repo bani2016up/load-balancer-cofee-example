@@ -1,3 +1,5 @@
+# BORIS! I BELIEVE IN YOU!
+
 # Coffee Shop Simulation (C++)
 
 ## Business Description
@@ -50,7 +52,7 @@ The simulated coffee shop features:
 
 * **Multithreading** : Uses `std::thread` for parallel order handling.
 * **Synchronization** : Ensures thread safety with `std::mutex` and `std::condition_variable`.
-* **Multiprocessing:** Using multiprocessing to simplyfy data serialization
+* **Multiprocessing:** Using multiprocessing to simplify data serialization.
 
 ### 6. Additional Features
 
