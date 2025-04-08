@@ -12,3 +12,8 @@ _deps
 CMakeUserPresets.json
 /build
 /.vscode
+./build
+./.vscode
+/CMakeCache.txt
+/cmake_install.cmake
+/CMakeFiles
